@@ -70,7 +70,6 @@ Here's an example of the program in action:
    ```
 
 
-## License
-![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)
-This project is licensed under the LZY License.
+## License ![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)
+This project is licensed under the <a href="https://github.com/rishav9713/lzy-xss/blame/main/LICENSE">LZY License</a>.
 
