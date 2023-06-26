@@ -29,7 +29,7 @@ This program checks for XSS (Cross-Site Scripting) vulnerabilities by injecting 
 2. Run the program:
 
    ```shell
-   python lzy-xss.py
+   python3 lzy-xss.py
 
 3. Enter the target URL when prompted.
 4. The program will check if the required libraries are installed. If any library is missing, it will install it automatically.
