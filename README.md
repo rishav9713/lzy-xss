@@ -12,4 +12,8 @@ This program checks for XSS (Cross-Site Scripting) vulnerabilities by injecting 
 1. Clone the repository:
 
    ```shell
-   git clone [https://github.com/your-username/xss-injection-check.git](https://github.com/rishav9713/lzy-xss)https://github.com/rishav9713/lzy-xss
+   git clone https://github.com/rishav9713/lzy-xss.git
+
+2. Navigate to the project directory:
+
+   cd lzy-xss
