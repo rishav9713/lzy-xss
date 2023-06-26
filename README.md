@@ -39,7 +39,7 @@ This program checks for XSS (Cross-Site Scripting) vulnerabilities by injecting 
 Here's an example of the program in action:
 
    ```shell
-   $ python lzy-xss.py
+   $ python3 lzy-xss.py
    
    Enter the target URL: https://example.com
    
