@@ -19,7 +19,7 @@ This program checks for XSS (Cross-Site Scripting) vulnerabilities by injecting 
    ```shell
    cd lzy-xss
 
-3. Install the required libraries:
+3. Either you can Install the required libraries by following code or it will download itself:
 
    ```shell
    pip install -r requirements.txt
