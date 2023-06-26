@@ -1,4 +1,4 @@
-# XSS Injection Check Program
+# XSS Injection Script
 
 This program checks for XSS (Cross-Site Scripting) vulnerabilities by injecting payloads into web forms found on a target URL. It sends the payloads to the server and checks if the response contains an alert. If an alert is found, the payload is marked as vulnerable, otherwise, it is marked as not vulnerable.
 
